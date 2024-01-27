@@ -33,9 +33,7 @@
                     "$$$$$oo                    o$$$$""
                        ""$$$$$ooooooooooooooo$$$$$"""
                           ""$$$$$$$ooooo$$$$$$$$$
-                                  
-```
-```json
+ 
 {
     "name" : "Dahee Ryu",
     "interest" : "Backend / Server Development",
