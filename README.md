@@ -38,6 +38,7 @@
 ```json
 {
     "name" : "Dahee Ryu",
+    "interest" : "Backend / Server Development",
     "company" : "CUBOX",
     "skills" : [
         "java", "spring boot", "RESTful API",
