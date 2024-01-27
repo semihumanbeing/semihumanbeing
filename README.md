@@ -9,6 +9,19 @@
  | |  _ | |  | | | |_| | | | |  _ \     
  | |_| || |  | | |  _  | |_| | |_) |    
   \____|___| |_| |_| |_|\___/|____/
+
+{
+    "name" : "Dahee Ryu",
+    "interest" : "Backend / Server Development",
+    "company" : "CUBOX",
+    "skills" : [
+        "java", "spring boot", "RESTful API",
+        "websocket", "MQTT", "redis",
+        "jpa", "mybatis", "mariadb", "mysql",
+        "react", "javascript", "typescript",
+        "ubuntu", "shell script", "git", "docker"
+    ]
+}
                            
 :smile
                             oooo$$$$$$$$$$$$oooo
@@ -34,16 +47,5 @@
                        ""$$$$$ooooooooooooooo$$$$$"""
                           ""$$$$$$$ooooo$$$$$$$$$
  
-{
-    "name" : "Dahee Ryu",
-    "interest" : "Backend / Server Development",
-    "company" : "CUBOX",
-    "skills" : [
-        "java", "spring boot", "RESTful API",
-        "websocket", "MQTT", "redis",
-        "jpa", "mybatis", "mariadb", "mysql",
-        "react", "javascript", "typescript",
-        "ubuntu", "shell script", "git", "docker"
-    ]
-}
+
 ```
